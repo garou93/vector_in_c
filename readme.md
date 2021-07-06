@@ -8,6 +8,7 @@ Makefile
 syntaxe Makefile
 static method
 void pointer
+std C99
 
 ####################### qques explications:
 
