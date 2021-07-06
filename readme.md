@@ -4,11 +4,11 @@ C'est ennuyant nn ! .. Que la partie commence !
 
 ####################### mots clés
 
-Makefile
-syntaxe Makefile
-static method
-void pointer
-std C99
+	Makefile
+	syntaxe Makefile
+	static method
+	void pointer
+	std C99
 
 ####################### qques explications:
 
