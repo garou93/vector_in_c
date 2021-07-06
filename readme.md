@@ -1,5 +1,7 @@
-####################### vector in c
-c'est ennuyant nn ! .. Que la partie commence !
+####################### vector in C
+
+C'est ennuyant nn ! .. Que la partie commence !
+
 ####################### mots clés
 
 Makefile
